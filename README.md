@@ -1,3 +1,3 @@
 <html>
-<center>Work in progress</center>
+<center> <p>Work in progress</p> </center>
 </html>
