@@ -1,5 +1,3 @@
-<html>
-<p>
-  <center> Work in progress </center>
+<p align='center'>
+  Work in progress
 </p>
-</html>
