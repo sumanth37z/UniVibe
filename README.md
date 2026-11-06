@@ -1,5 +1,5 @@
 <p align='center'>
-  Work in Progress 
-  /n Feel Free to contribute!
+  Work in Progress<br>
+  Feel Free to contribute!
 </p>
 
